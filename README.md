@@ -1,0 +1,2 @@
+Our Random Forest model has been trained on a comprehensive dataset and fine-tuned to ensure high accuracy in predicting heart disease. We have rigorously validated the model's performance to instill confidence in its results.
+We prioritize the privacy and security of your personal health information. Your data is handled with the utmost care and in compliance with industry standards and regulations. We maintain strict confidentiality to protect your sensitive information.
